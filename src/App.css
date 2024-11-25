@@ -1,0 +1,11 @@
+.form {
+  margin: 0 10%;
+}
+
+input [type="submit"] {
+  margin-top: 50px;
+}
+
+.form-group {
+    margin: 20px 0;
+}
